@@ -1,0 +1,1 @@
+global.iceboolean = 1;

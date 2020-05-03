@@ -1,0 +1,1 @@
+global.fireboolean = 1;

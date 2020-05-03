@@ -1,0 +1,1 @@
+global.lightningboolean = 1;
