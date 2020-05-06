@@ -1,0 +1,12 @@
+				"name": 			"slash",
+			"level":			"1", //1, 2, 3
+			"equipped":			"true",
+			"target_type":		"enemy", //enemy, friendly, all, self,
+			"description":		"ATK power, 100%"
+			"dmg_ratio":		"100", 	//percentage
+			"crit_mod":			"0",  //percentage
+			"accuracy_mod":		"0",	//percentage
+			"attak_type":		"single", //single, pierce, spread, circle
+			"spread_deg":		"", 	//only used on spread to specify angle of spread, range of all abilites defined by weapon/player
+			"status_effect":	"",
+			"element":			""

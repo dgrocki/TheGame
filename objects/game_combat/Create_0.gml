@@ -1,7 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-global.combat = 1; //currently not in combat
+global.combat = 1;
+instance_create(0, 0, combat_menu); 
+
 currentTurn = 0;
 //If combat
 //Enumerate all character objects and store x & y pos

@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "1cc92715-745f-4f88-a129-6a740ef93a31",
+            "Value": {
+                "id": "b07975ad-7073-448e-8cd2-a4516236f405",
+                "resourcePath": "objects\\combat_menu\\combat_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1cda46e6-cf2b-43b7-8253-23fe9d5e649d",
             "Value": {
                 "id": "6e93483d-2a10-4c03-9834-3014dd7ef06c",
@@ -1671,6 +1679,14 @@
             }
         },
         {
+            "Key": "9dbbdbaa-324f-4ef7-b8ab-2351289c5782",
+            "Value": {
+                "id": "6b9f0ce0-4d6b-41c4-993e-05d882cd603d",
+                "resourcePath": "views\\9dbbdbaa-324f-4ef7-b8ab-2351289c5782.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9dc2f3c5-5ec2-4c09-b6ca-fc6876ceb333",
             "Value": {
                 "id": "8f282644-5b37-42d5-98cb-6fc0e259f767",
@@ -1868,6 +1884,14 @@
                 "id": "66a658e2-7732-47bb-af95-2ea19afd35ca",
                 "resourcePath": "objects\\obj_small\\obj_small.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "af70e1fc-0c41-4a9c-8ce4-46f70d61ecdd",
+            "Value": {
+                "id": "0e1a57ff-e8ad-4660-8f8f-f95fa9238e55",
+                "resourcePath": "datafiles_yy\\Abilities.json.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -2207,6 +2231,14 @@
             }
         },
         {
+            "Key": "ce65877e-0a6a-416e-96fc-651fe68cb28f",
+            "Value": {
+                "id": "5ddb24e6-2547-4fcf-bafc-a1d5efeaa8c4",
+                "resourcePath": "objects\\obj_combat_menu\\obj_combat_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ce791133-3cf8-4f6d-8f39-13cbf38cf0a3",
             "Value": {
                 "id": "f4df5092-cc7d-4a6c-b54a-aeedd7682e81",
@@ -2319,6 +2351,14 @@
             }
         },
         {
+            "Key": "dc44d3e2-246e-4ae2-a40b-3624f5356a86",
+            "Value": {
+                "id": "e2a5c641-600f-48da-93f0-dc4b3c6ef10d",
+                "resourcePath": "sprites\\spr_back1\\spr_back1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dcb29d57-cf66-4703-a88f-63b6d8764209",
             "Value": {
                 "id": "693f90e1-1ec3-4bb4-948d-9e1f3efd781f",
@@ -2375,6 +2415,14 @@
             }
         },
         {
+            "Key": "e40f21b5-f332-4819-80a9-d4a158dc43cf",
+            "Value": {
+                "id": "09d9c015-e957-4331-806a-f98fa64c5660",
+                "resourcePath": "notes\\ability_json_notes.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "e4e85f51-820d-4bef-87f8-078a640f3d3c",
             "Value": {
                 "id": "a0c8376c-cd92-47a1-834f-2b36e2ffbfbf",
@@ -2388,6 +2436,14 @@
                 "id": "8d9ebf43-d03b-4dac-a69a-a19149019106",
                 "resourcePath": "scripts\\sct_part_lightningL_int\\sct_part_lightningL_int.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e556b2bb-cd9d-4ecf-9653-f7dc959d9168",
+            "Value": {
+                "id": "6a000f79-a547-4237-bc4c-38666e54ca12",
+                "resourcePath": "views\\e556b2bb-cd9d-4ecf-9653-f7dc959d9168.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -2460,6 +2516,14 @@
                 "id": "64bf85d1-d94e-4f28-a4dc-b32149abdb12",
                 "resourcePath": "sprites\\spr_gold_5\\spr_gold_5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb9eb92e-182e-42b9-a77a-0b36092e82be",
+            "Value": {
+                "id": "c031e39d-0478-4b20-ad78-90294e02e955",
+                "resourcePath": "scripts\\load_datafile_abilities\\load_datafile_abilities.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2754,7 +2818,8 @@
         "816b594e-2771-4e56-8ea4-a3971408f828",
         "a4c35205-b03c-4687-b1fe-12a74138808e",
         "1ca3f335-5096-4e7d-9e38-c0637ddd9fc1",
-        "ee360fde-b76b-4b1c-9cf4-4f28b6144b7b"
+        "ee360fde-b76b-4b1c-9cf4-4f28b6144b7b",
+        "eb9eb92e-182e-42b9-a77a-0b36092e82be"
     ],
     "tutorial": ""
 }

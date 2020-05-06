@@ -3,8 +3,15 @@ shoot_bow = 0;
 global.playerSpeed = 4
 
 
+abilities = load_datafile_abilities();
+
 //move  this
 global.combat = 0;
+
+//move this too
+equipedCombatMoves = 0;
+
+
 
 //combat
 unlocked = true;

@@ -1,7 +1,7 @@
 globalvar grid;
 
 
-if (unlocked)
+if (global.combat == false)
 {
 
 	grid = mp_grid_create(0,0, room_width/10, room_height/10, 10,10);
@@ -35,6 +35,10 @@ if (unlocked)
 	}
 
 	global.count++;
+}
+else if(turn == true)
+{
+
 }
 else
 {

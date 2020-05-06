@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-turn = true;
+if(global.combat == 0)
+{
+	instance_destroy(self);
+}

@@ -6,7 +6,6 @@ attack = 1;
 action_set_motion(random(360), 1);
 
 //combat
-unlocked = true;
 turn = false;
 global.count = 0;
 

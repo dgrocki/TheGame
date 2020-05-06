@@ -1,0 +1,34 @@
+[
+	{
+		"name": 			"slash",
+		"level":			"1",
+		"equipped":			"true",
+		"target_type":		"enemy", 
+		"description":		"ATK power 100%",
+		"dmg_ratio":		"100", 	
+		"crit_mod":			"0",  
+		"accuracy_mod":		"0",	
+		"attak_type":		"single", 
+		"spread_deg":		"", 	
+		"status_effect":	"",
+		"element":			""
+
+	},
+	{
+		"name": 			"thrust",
+		"level":			"1",
+		"equipped":			"true",
+		"target_type":		"enemy", 
+		"description":		"ATK power 25%, ignores defense",
+		"dmg_ratio":		"25", 	
+		"crit_mod":			"0",  
+		"accuracy_mod":		"0",	
+		"attak_type":		"pierce", 
+		"spread_deg":		"", 	
+		"status_effect":	"",
+		"element":			""
+	}
+]
+
+	
+	
