@@ -1,7 +1,7 @@
-
+instance_destroy(other);
 
 instance_create(self.x, self.y, game_combat);
-self.y += 20;
+
 
 //action_set_relative(1);
 //{

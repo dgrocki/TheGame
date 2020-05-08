@@ -16,6 +16,9 @@ depth = -y;
 
 //-----------------BEGIN COMBAT-------------------
 
+//Menuing
+menu = instance_find(combat_menu, 0);
+load_current_player_menu(menu, self);
 
 //-----------------BEGIN MOVEMENT-----------------
 if(unlocked)
@@ -174,6 +177,9 @@ if (keyboard_check_pressed(vk_shift))
 			instance_create(x , y + 20,	obj_sworddown);
 			break;
 	}
+	
+	
+	
 	if(global.combat)
 	{
 		event_user(1);

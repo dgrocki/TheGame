@@ -17,24 +17,12 @@ if(file != -1)
 	
 	if(abilities != -1)
 	{
-		//return abilities;
+		return abilities;
 	}
 	
 	
 	//var list = ds_map_find_first(abilities);
-	var list = ds_map_find_value(abilities, "default");
-		
-	for(var i = 0; i < ds_list_size(list); i++)
-	{
-	   var map = ds_list_find_value(list, i);
-	   var curr = ds_map_find_first(map);
-	   while (is_string(curr))
-	      {
-	      global.Name[i] = ds_map_find_value(map, "name");
-	      curr = ds_map_find_next(map, curr);
-	      }
-	   ds_map_destroy(map);
-	}
+	
 	
 	//var list = ds_map_find_value(resultMap, "default");
 	//var size = ds_list_size(list);

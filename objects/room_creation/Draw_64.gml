@@ -13,3 +13,4 @@ draw_sprite_stretched(spr_healthbar_foreground, 0, 10, -88, sprite_width*8, spri
 draw_sprite_stretched(spr_healthbar_background, 0, 10, -23, sprite_width*8, sprite_height*8);
 draw_healthbar(42,94,220,131,global.mana,c_yellow,c_dkgray,c_aqua,0,false,true);
 draw_sprite_stretched(spr_healthbar_foreground, 0, 10, -23, sprite_width*8, sprite_height*8)
+

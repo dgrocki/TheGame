@@ -1,5 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+skills = 0;
 
-draw_sprite_stretched(spr_back1, 0, -5, 500, 300, 500);
+//menu levels
+combat		= true;
+items		= false;
+gameplay	= false
+
+event_perform(ev_gui, 0);
