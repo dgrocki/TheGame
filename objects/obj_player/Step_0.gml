@@ -17,8 +17,8 @@ depth = -y;
 //-----------------BEGIN COMBAT-------------------
 
 //Menuing
-menu = instance_find(combat_menu, 0);
-load_current_player_menu(menu, self);
+//menu = instance_find(combat_menu, 0);
+//load_current_player_menu(menu, self);
 
 //-----------------BEGIN MOVEMENT-----------------
 if(unlocked)
